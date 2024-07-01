@@ -43,3 +43,6 @@
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data      structures and algorithms)
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software         engineering/design/database)
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+**At the beginning of the course, we conducted a thorough code review to assess the current state of our projects. This review helped us identify strengths and areas for improvement, allowing us to formulate a strategic plan to enhance our work. My detailed video outlining this process and our initial evaluations can be viewed at this link.**
+https://youtu.be/6cHpBUqhWmg
