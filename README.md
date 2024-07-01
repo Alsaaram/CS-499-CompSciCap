@@ -1,2 +1,2 @@
-# CS-499-CompSciCap
+# CS-499 Computer Science Capstone
 Alsaaram.github.io
