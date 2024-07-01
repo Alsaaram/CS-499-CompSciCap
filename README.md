@@ -35,4 +35,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I believe I met the course objectives but will make further updates before the final submission of module seven.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setting up a virtual environment was challenging, especially on my MacBook. This project requires MongoDB and the necessary components for proper functionality, which I successfully configured.
-	
+
+**The course outcomes expected of us as students are listed below. Throughout this course, we were tasked with meeting these expectations through various projects and assignments. In one way or another, we addressed each component during our improvement and development processes for each project. By continuously refining our work and applying new knowledge, we ensured that each outcome was effectively met.**
+
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data      structures and algorithms)
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software         engineering/design/database)
+- Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
